@@ -1,0 +1,27 @@
+{
+  "name": "@agile-dev/wx-protobuf",
+  "version": "1.0.0",
+  "description": "微信小程序使用的 protobuf 协议开发工具",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Boss-Os/wx-protobuf.git"
+  },
+  "keywords": [
+    "protobufjs",
+    "js",
+    "weChat"
+  ],
+  "author": "JBoss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Boss-Os/wx-protobuf/issues"
+  },
+  "homepage": "https://github.com/J-Boss-Os/wx-protobuf#readme"
+}
